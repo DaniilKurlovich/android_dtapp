@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SecondTask</string>
+    <string name="start_count">0</string>
+    <string name="text_counter">ADD</string>
+    <string name="text_show">SHOW</string>
+    <string name="text_second_activity">Счётчик %1d</string>
+</resources>
